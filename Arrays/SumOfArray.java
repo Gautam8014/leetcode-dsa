@@ -1,7 +1,7 @@
 // Source code written for DSA practice
-public class TwoSum {
+public class SumOfArray {
 
     public static void main(String[] args) {
-        System.out.println("TwoSum program running");
+        System.out.println("SumOfArray program running");
     }
 }

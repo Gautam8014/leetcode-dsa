@@ -1,7 +1,7 @@
 // Source code written for DSA practice
-public class TwoSum {
+public class LinearSearch {
 
     public static void main(String[] args) {
-        System.out.println("TwoSum program running");
+        System.out.println("LinearSearch program running");
     }
 }
