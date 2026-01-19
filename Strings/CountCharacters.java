@@ -2,7 +2,7 @@
 public class CountCharacters {
 
     public static void main(String[] args) {
-       String str = "Lipika";
+       String str = "Hello";
         
        int count=0;
        
