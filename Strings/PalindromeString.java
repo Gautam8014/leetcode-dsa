@@ -2,7 +2,7 @@
 public class PalindromeString {
 
     public static void main(String[] args) {
-        String str = "madam";
+        String str = "madams";
          String rvc ="";
 
      for(int i= str.length()-1; i>=0; i--) {
@@ -11,7 +11,9 @@ public class PalindromeString {
 
 
       if(str.equals(rvc)){
-        System.out.println("palindrome");
+               System.out.println("this is a palindrome");
+      }else{
+        System.out.println("this is not a palindrome");
       }
     }
 
